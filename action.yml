@@ -1,0 +1,8 @@
+name: "Own Your PR"
+description: "Enforce structured PR descriptions with video, rollout explanation, risk assessment, and incident ownership"
+branding:
+  icon: "check-circle"
+  color: "green"
+runs:
+  using: "node20"
+  main: "dist/index.js"
